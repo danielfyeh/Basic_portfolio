@@ -1,16 +1,20 @@
-<style> 
-* {
+<style> * {
     box-sizing: border-box;
     text-align: center;
 }
 
-
 .nav {
-   
-	width:960px;
-	margin-right:auto;
-	margin-left:auto;
-	margin-bottom:10px;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+.contactform{
+	  width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 20px;
+
 }
 
 .h1 {
@@ -24,68 +28,70 @@
     width: 200px;
     height: 50px;
 }
-.aboutme{
-	background-image: url("http://www.bypeople.com/wp-content/uploads/2014/05/light-live-background-css.jpg");
-	overflow:auto;
-	width:960px;
-	margin-left:auto;
-	margin-right:auto;
 
+.aboutme {
+    background-image: url("http://www.bypeople.com/wp-content/uploads/2014/05/light-live-background-css.jpg");
+    overflow: auto;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .bio {
     clear: both;
     overflow: auto;
     width: 600px;
-    margin-right:20px;
-    margin-top:20px;
-    float:left;
+    margin-right: 20px;
+    margin-top: 20px;
+    float: left;
 }
-.connect{
-	float:left;
-	background-color:white;
-	margin-top:30px;
-	padding:10px 10px 10px 10px;
-	color:#4aaaa5;
+
+.connect {
+    float: left;
+    background-color: white;
+    margin-top: 30px;
+    padding: 10px 10px 10px 10px;
+    color: #4aaaa5;
 }
-.link{
-	width:50px;
-	height:50px;
+
+.link {
+    width: 50px;
+    height: 50px;
 }
 
 .profilepic {
     height: 250px;
     width: 200px;
     float: left;
-   
-    padding:0px 20px 20px 20px;
+    padding: 0px 20px 20px 20px;
 }
 
 .h2 {
     color: #4aaaa5;
-    width:330px;
+    width: 330px;
 }
-.footer{
-	clear:both;
-	font-size:14px;
-	padding:20px;
-	background-color: #666666;
-	color:white;
-	font-family:helvetica;
-	text-align:center;
-	border-top:10px;
-	border-style:solid;
-	border-color:#4aaaa5;
-	width:960px;
-	margin-right:auto;
-	margin-left:auto;
+
+.footer {
+    clear: both;
+    font-size: 14px;
+    padding: 20px;
+    background-color: #666666;
+    color: white;
+    font-family: helvetica;
+    text-align: center;
+    border-top: 10px;
+    border-style: solid;
+    border-color: #4aaaa5;
+    width: 960px;
+    margin-right: auto;
+    margin-left: auto;
 }
+
 p {
     text-align: left;
     float: right;
     width: 400px;
 }
-
 
 ul {
     list-style-type: none;
